@@ -1,0 +1,8 @@
+{
+	"SourceFiles": [
+		"C:\\Users\\ASUS\\Documents\\Unreal Projects\\GeometrySB\\Source\\GeometrySB\\GeometrySB.Build.cs",
+		"C:\\Users\\ASUS\\Documents\\Unreal Projects\\GeometrySB\\Source\\GeometrySB.Target.cs",
+		"C:\\Users\\ASUS\\Documents\\Unreal Projects\\GeometrySB\\Source\\GeometrySBEditor.Target.cs"
+	],
+	"EngineVersion": "4.27.2"
+}

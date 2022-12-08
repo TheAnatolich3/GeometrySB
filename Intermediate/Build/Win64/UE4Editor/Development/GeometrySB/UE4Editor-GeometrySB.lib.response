@@ -1,0 +1,19 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-GeometrySB.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"C:\Users\ASUS\Documents\Unreal Projects\GeometrySB\Intermediate\Build\Win64\GeometrySBEditor\Development\Engine\SharedPCH.Engine.ShadowErrors.h.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\GeometrySB\Intermediate\Build\Win64\UE4Editor\Development\GeometrySB\BaseGeometryActor.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\GeometrySB\Intermediate\Build\Win64\UE4Editor\Development\GeometrySB\GeometryHubActor.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\GeometrySB\Intermediate\Build\Win64\UE4Editor\Development\GeometrySB\GeometrySB.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\GeometrySB\Intermediate\Build\Win64\UE4Editor\Development\GeometrySB\GeometrySBGameModeBase.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\GeometrySB\Intermediate\Build\Win64\UE4Editor\Development\GeometrySB\BaseGeometryActor.gen.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\GeometrySB\Intermediate\Build\Win64\UE4Editor\Development\GeometrySB\GeometryHubActor.gen.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\GeometrySB\Intermediate\Build\Win64\UE4Editor\Development\GeometrySB\GeometrySB.init.gen.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\GeometrySB\Intermediate\Build\Win64\UE4Editor\Development\GeometrySB\GeometrySBGameModeBase.gen.cpp.obj"
+"C:\Users\ASUS\Documents\Unreal Projects\GeometrySB\Intermediate\Build\Win64\UE4Editor\Development\GeometrySB\Default.rc2.res"
+/OUT:"C:\Users\ASUS\Documents\Unreal Projects\GeometrySB\Intermediate\Build\Win64\UE4Editor\Development\GeometrySB\UE4Editor-GeometrySB.lib"

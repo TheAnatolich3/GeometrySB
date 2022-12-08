@@ -1,0 +1,2 @@
+C:\Users\ASUS\Documents\Unreal Projects\GeometrySB\Intermediate\Build\Win64\UE4Editor\Development\GeometrySB\Definitions.GeometrySB.h
+C:\Users\ASUS\Documents\Unreal Projects\GeometrySB\Source\GeometrySB\GeometrySB.h

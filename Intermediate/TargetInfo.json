@@ -1,0 +1,14 @@
+{
+	"Targets": [
+		{
+			"Name": "GeometrySB",
+			"Path": "C:\\Users\\ASUS\\Documents\\Unreal Projects\\GeometrySB\\Source\\GeometrySB.Target.cs",
+			"Type": "Game"
+		},
+		{
+			"Name": "GeometrySBEditor",
+			"Path": "C:\\Users\\ASUS\\Documents\\Unreal Projects\\GeometrySB\\Source\\GeometrySBEditor.Target.cs",
+			"Type": "Editor"
+		}
+	]
+}

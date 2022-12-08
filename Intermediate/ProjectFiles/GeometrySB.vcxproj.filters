@@ -1,0 +1,63 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="16.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <None Include="..\..\GeometrySB.uproject" />
+    <Filter Include="Source">
+      <UniqueIdentifier>{2A64C01B-9BC3-4408-8EB5-704EA3533FD0}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GeometrySB.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <None Include="..\..\Source\GeometrySBEditor.Target.cs">
+      <Filter>Source</Filter>
+    </None>
+    <Filter Include="Config">
+      <UniqueIdentifier>{E88B8956-0653-4132-8D3C-B1543A145EA3}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Config\DefaultEditor.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultEngine.ini">
+      <Filter>Config</Filter>
+    </None>
+    <None Include="..\..\Config\DefaultGame.ini">
+      <Filter>Config</Filter>
+    </None>
+    <Filter Include="Source\GeometrySB">
+      <UniqueIdentifier>{5554691A-EB24-4899-8607-144149C45D9E}</UniqueIdentifier>
+    </Filter>
+    <None Include="..\..\Source\GeometrySB\GeometrySB.Build.cs">
+      <Filter>Source\GeometrySB</Filter>
+    </None>
+    <ClCompile Include="..\..\Source\GeometrySB\GeometrySB.cpp">
+      <Filter>Source\GeometrySB</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GeometrySB\GeometrySB.h">
+      <Filter>Source\GeometrySB</Filter>
+    </ClInclude>
+    <ClCompile Include="..\..\Source\GeometrySB\GeometrySBGameModeBase.cpp">
+      <Filter>Source\GeometrySB</Filter>
+    </ClCompile>
+    <ClInclude Include="..\..\Source\GeometrySB\GeometrySBGameModeBase.h">
+      <Filter>Source\GeometrySB</Filter>
+    </ClInclude>
+    <Filter Include="Source\GeometrySB\Private">
+      <UniqueIdentifier>{E8A3C5E7-181B-4B07-8949-E7F3068D1675}</UniqueIdentifier>
+    </Filter>
+    <ClCompile Include="..\..\Source\GeometrySB\Private\BaseGeometryActor.cpp">
+      <Filter>Source\GeometrySB\Private</Filter>
+    </ClCompile>
+    <ClCompile Include="..\..\Source\GeometrySB\Private\GeometryHubActor.cpp">
+      <Filter>Source\GeometrySB\Private</Filter>
+    </ClCompile>
+    <Filter Include="Source\GeometrySB\Public">
+      <UniqueIdentifier>{AED7339C-A94F-46BC-9348-D8416980F723}</UniqueIdentifier>
+    </Filter>
+    <ClInclude Include="..\..\Source\GeometrySB\Public\BaseGeometryActor.h">
+      <Filter>Source\GeometrySB\Public</Filter>
+    </ClInclude>
+    <ClInclude Include="..\..\Source\GeometrySB\Public\GeometryHubActor.h">
+      <Filter>Source\GeometrySB\Public</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
